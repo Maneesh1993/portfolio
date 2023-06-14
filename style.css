@@ -1,0 +1,86 @@
+body{
+    background-color:peachpuff;
+    
+    }
+
+    H1{
+        color: purple;
+     
+        text-align: center;
+        border:2PX    solid purple;
+        border-width: 1px 2px 5px 10px;
+        border-radius: 6px;
+        /* font-size: larger; */
+    }
+
+    H2{
+        text-align: center;
+    }
+
+    DIV{
+        /* text-align: center;
+        align-items: center; */
+        margin-left: 320PX;
+    }
+
+    li{
+            margin-top: 30PX;
+            font-weight: bold;
+    }
+
+    .ABOUT{
+        margin-top: 50PX;
+        /* border:solid 2PX ; */
+        border:2PX    solid purple;
+        border-width: 1px 2px 5px 10px;
+        border-radius: 6px;
+        font-weight: bold;
+        /* font-size: larger; */
+    }
+
+    .prog{
+        margin-left: 320px;
+        font-weight: bold;
+    }
+
+    .LANG{
+        margin-top: 50px;
+        border:2PX  10PX 2PX 10PX SOLID ;
+        font-weight: bold;
+    }
+
+    .proj{
+        margin: left 320px; ;
+       margin-bottom: 29px;
+        color: black;
+        font-weight: bold;
+        /* font-size: larger; */
+    }
+
+    img{
+            width: 250px;
+            height: 300px;
+            text-align: center;
+            align-items: center;
+            /* margin-left: 100px; */
+    }
+
+    p{
+        margin-left: 50px;
+        text-transform: uppercase;
+        font-weight: bold;
+        margin-left: 450px;
+        margin-top: 20px;
+        /* font-size: larger; */
+    }
+
+    .ABOUT1{
+        margin-top: 50PX;
+        /* border:solid 2PX ; */
+        border:2PX    solid purple;
+        border-width: 1px 2px 5px 10px;
+        border-radius: 6px;
+        font-weight: bold;
+        /* font-size: larger; */
+        /* margin-left: 320px; */
+    }
